@@ -15,7 +15,6 @@ brew 'zsh-completions'
 brew 'wget'
 brew "tldr"
 brew "tree"
-brew "python"
 
 cask "google-chrome"
 cask "keycastr"
